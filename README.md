@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1416528360.svg)](https://doi.org/10.5281/zenodo.23333606)
 # QADiag-ML
 
 **Capturing Complex Biomarker Interactions for Early Alzheimer’s Disease Diagnosis Using Quantum-Inspired Machine Learning**
