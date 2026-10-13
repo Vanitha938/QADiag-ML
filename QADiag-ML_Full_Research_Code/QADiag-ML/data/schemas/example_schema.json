@@ -1,0 +1,25 @@
+{
+  "subject_id": "RID",
+  "diagnosis": "DX",
+  "visit_time": "VISIT_MONTH",
+  "site": "SITE",
+  "label_map": {
+    "CN": 0,
+    "MCI": 1,
+    "AD": 2
+  },
+  "clinical": [
+    "ADAS13",
+    "MMSE",
+    "CDRSB"
+  ],
+  "imaging": [
+    "HIPPOCAMPUS",
+    "VENTRICLES"
+  ],
+  "bio_genetic": [
+    "ABETA",
+    "TAU",
+    "APOE4"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "streams": [
+    "clinical",
+    "imaging",
+    "bio_genetic"
+  ],
+  "latent": 32,
+  "candidate_count": 4,
+  "angle_coordinates_per_candidate": 4,
+  "mps_sites": 16,
+  "mps_physical_dim": 2,
+  "mps_bond": 8,
+  "mps_output": 32,
+  "prototypes": 32,
+  "epochs": 40,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}
